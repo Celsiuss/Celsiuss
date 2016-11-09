@@ -1,0 +1,11 @@
+{
+    "name": "root/celsiuss",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Celsiuss",
+            "email": "912129091@qq.com"
+        }
+    ],
+    "require": {}
+}
